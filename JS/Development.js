@@ -28,21 +28,21 @@ for(i =0 ;i<devMenu.length; i++)
             heading = "Firtech"
             category = "App";
             // loadFunction = loadFirtech();
-            src = "../Images/FirtechLogo.png";
+            src = "/Images/FirtechLogo.png";
             loc = devMenu[0]+".html";  
             break;
         case 1:
             heading = "WomansFlow"
             category = "App";
             // loadFunction = WomansFlow();
-            src="../Images/WomansFlowHomePage.png";
+            src="/Images/WomansFlowHomePage.png";
             loc = devMenu[1]+".html"; 
             break;
         case 2:
             heading = "Debug.Logger"
             category = "Game";
             //loadFunction = ExamGame();
-            src = "../Images/DebugLogger.png";
+            src = "/Images/DebugLogger.png";
             loc = devMenu[2]+".html"; 
             break;
         // case 3:

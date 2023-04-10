@@ -66,7 +66,7 @@ main.append(section);
 for(i = 0; i<selectedImgArray.length; i++)
 {
     let img = document.createElement("img");
-    img.src = "../Images/"+selectedImgArray[i];
+    img.src = "/Images/"+selectedImgArray[i];
     section.append(img);
 }
 
