@@ -1,7 +1,7 @@
 // loadIndex();
 
 //NAV BAR
-const navMenu = ["index", "Development", "AboutMe", "ContactMe"];
+const navMenu = ["index", "Development", "AboutMe", "contactMe"];
 // let navArea = document.getElementById('nav');
 let header = document.getElementById("header");
 header.classList.add("h-card");
