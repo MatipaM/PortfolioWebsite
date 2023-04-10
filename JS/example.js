@@ -30,13 +30,13 @@ const grid = newItemDisplay2.createItemGrid();
 grid.addItem(
   "University of the Witwatersrand ",
   "BA in Digital Arts (2023)",
-  "Images/EducationLogos/WitsLogo.png", //change to icon
+  "../Images/EducationLogos/WitsLogo.png", //change to icon
   { "Game Design ": " ", "Interactive Media": "" }
 );
 grid.addItem(
   "St. John's College",
   "(2017-2019)",
-  "Images/EducationLogos/StJohnsLogo.png",
+  "../Images/EducationLogos/StJohnsLogo.png",
   { "A2 Maths": " ", "A2 Physics": "", "A2 Art": " ", "AS Biology": "" }
 );
 
